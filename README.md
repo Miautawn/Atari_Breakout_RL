@@ -1,5 +1,5 @@
 # RL Atari Breakout
-This projects aims to create a Deep Q-Network agent able to play Atari 2600 game Breakout.
+This projects aims to create a Deep Q-Network agent able to play Atari 2600 game Breakout using TensorFlow Agents library.
 
 The model is a close replication to the one proposed in 2015 DeepMind's *"Human Level Control Through Deep Reinforcement Learning"* publication [[1]](https://www.deepmind.com/publications/human-level-control-through-deep-reinforcement-learning). The model building was algo guided by the "Hands-On Machine Learning with Scikit-Learn and TensorFlow"* book [[2]](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/) by Aurélien Géron, chapter *"Reinforcement Learning"*.
 
