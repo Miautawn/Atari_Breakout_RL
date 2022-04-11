@@ -24,6 +24,13 @@ You can edit all the parameters such as train iterations or replay buffer sizes 
 Once the program finishes, there should be an **.mp4** file with the trained agent playing one round of breakout!
 
 
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/24988290/162645967-0d92a2cc-00ba-4f0c-a91a-ee3ad2c7dca0.gif" width="300" height="400" />
+</p>
+
+
+
+
 ## References
 [1] Mnih, V., Kavukcuoglu, K., Silver, D. et al. Human-level control through deep reinforcement learning. Nature 518, 529–533 (2015). https://doi.org/10.1038/nature14236
 
